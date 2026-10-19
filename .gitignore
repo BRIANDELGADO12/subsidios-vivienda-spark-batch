@@ -1,0 +1,22 @@
+# Datos descargados (se obtienen con scripts/cargar_hdfs.sh)
+*.csv
+*.json
+rows.*
+subsidios_real.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Spark / Hadoop
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+
+# Sistema / editores
+.DS_Store
+.idea/
+.vscode/
