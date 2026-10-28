@@ -20,3 +20,6 @@ derby.log
 .DS_Store
 .idea/
 .vscode/
+
+# Salidas generadas al ejecutar el script (las graficas de docs/evidencias si se versionan)
+/resultados_subsidios/
